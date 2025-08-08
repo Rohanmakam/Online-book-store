@@ -1,0 +1,5 @@
+We have implemented this paper in our project Online Book Store. In our website we will display all the books and we will be updating the books frequently. The Internet has been favoured by more and more people for its high efficiency and
+ richness, and e-commerce has emerged. The online bookstore is a form of e-commerce and book sales industry in one form, it has many advantages, such as: Bookstore size is relatively small, cost savings; transaction activities can be anytime, anywhere, improve
+ service efficiency, The information is complete, more convenient retrieval, the new book information on the new, consumers can see in a timely manner, trading activities can be launched immediately, so online bookstore in today's era of development is
+ extremely rapid. Online bookstore system is the main function of the trading platform for the site, consumers can connect to the Internet through the computer into the online bookstore and then check the book information, if you need to purchase should be registered landing, select their own books, submit orders and pay
+Operation to complete the entire book ordering process, to achieve online transactions.
